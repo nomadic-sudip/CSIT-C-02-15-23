@@ -1,5 +1,9 @@
-// Hello world! Cplayground is an online sandbox that makes it easy to try out
-// code.
+// program in C to print the following
+//     1
+//    121
+//   12321
+//  1234321
+// 123454321
 
 #include <stdio.h>
 #include <stdlib.h>
